@@ -11,3 +11,5 @@ git commit -m "тут ваше сообщение о коммите"
 git config --global user.email "Ваша почта на гитхабе"
 git config --global user.name"Ваше имя на гитхабе"  (Можно посмотреть в адресной строке браузера github.com/Baziam)
 git push origin main
+
+обратка
