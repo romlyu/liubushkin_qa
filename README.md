@@ -13,5 +13,6 @@ git config --global user.name"Ваше имя на гитхабе"  (Можно 
 git push origin main
 
 обратка git pull
+dd
 
 ..
